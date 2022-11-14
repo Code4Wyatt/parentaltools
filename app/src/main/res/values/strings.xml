@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ParentalTools</string>
+    <string name="iv_family_description">Picture of family</string>
+    <string name="child2">Louise</string>
+    <string name="child1">Wyatt</string>
+    <string name="child3">Jack</string>
+</resources>
